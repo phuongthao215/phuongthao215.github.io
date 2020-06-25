@@ -1,4 +1,5 @@
-# CV Trần Phương Thảo Android Developer
+# CV Trần Phương Thảo
+Android Developer
 ## Thông tin
 - Địa chỉ: 2/7 Nguyễn Cảnh Dị, phường Bình Khánh, TP Long Xuyên, An Giang.
 - Gmail: thao61338@gmail.com
@@ -23,13 +24,6 @@
 ## Hoạt động
 - Tham gia mùa hè xanh
 - Tình nguyện viên
-- Tham gia cuộc thi tin học văn phòng
-### Công việc mong muốn
-- Số năm kinh nghiệm : chưa có kinh nghiệm  
-- Nơi làm việc : An Giang , TP HCM , Cần Thơ 
-- Ngành nghề : Công nghệ thông tin 
-- Loại hình công việc : Hợp đồng 
-- Cấp bậc : Nhân viên
 ### Mục tiêu nghề nghiệp
 - Mục tiêu ngắn hạn: có công việc ổn định, trở thành nhân viên xuất sắc, tích lũy được nhiều kinh nghiệm, rèn luyện kỹ năng xử lý công việc hiệu quả, nhanh chóng và chính xác. Có khả năng giao tiếp với 1 khách nước ngoài trong 1 năm tới.
 - Mục tiêu dài hạn: trở thành một Developer Leader với trình độ chuyên môn, nghiệp vụ và kỹ năng cao để cống hiến tốt nhất cho sự phát triển của công ty.

@@ -1,21 +1,25 @@
 # CV Trần Phương Thảo
 Android Developer
 ## Thông tin
-- Địa chỉ: 2/7 Nguyễn Cảnh Dị, phường Bình Khánh, TP Long Xuyên, An Giang.
+- Giới tính: Nữ
+- DOB: 21/05/2000
+- Địa chỉ: Bình Khánh, TP Long Xuyên, An Giang.
 - Gmail: thao61338@gmail.com
 - Sđt: 0917716821
+- Quốc tịch: Việt Nam
 ## Tóm tắt
   Xin chào! Tôi tên là Trần Phương Thảo. Tôi 20 tuổi mong muốn trở thành một Developer đầy đam mê và nhiệt huyết. Với những kiến thức tôi đã được học và những kinh nghiệm trong quá trình thực hành cùng với tinh thần trách nhiệm trong công việc, tôi hy vọng có thể dùng khả năng của mình để góp phần phát triển thêm cho công ty. Ngoài ra tôi còn mong muốn được làm trong một môi trường chuyên nghiệp, đồng nghiệp hòa đồng và thân thiện.
 ## Những kỹ năng chuyên ngành
-- C/C++ 9/10
+- C/C++ 6/10
 - Java 8/10
-- Photoshop, editor 7/10
+- Pascal 5/10
 ## Ngôn ngữ
 - **English**   *Thông thạo*
 - **Korea**  *Good*
 - **Chinese**   *Good*
 ## Học vấn
-- Sinh viên ghành công nghệ thông tin trường Đại học An Giang - Đại học Quốc gia TP HCM
+- Đại học An Giang - Đại học Quốc gia TP HCM
+Chuyên ngành: Công nghệ thông tin
 - Chứng chỉ tiếng anh A2
 ### Kỹ năng khác
 - Tin học văn phòng | Thành thạo sử dụng Word, Exel, Power Point
